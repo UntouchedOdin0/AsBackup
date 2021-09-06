@@ -1,10 +1,10 @@
-# Information
-AsBackup Is Auto Backup Skirpt To Discord. Tps Friendly And Configurable
+# About
+	AsBackup Is Auto Backup System For Skirpt. Easy To Use And Usefull.
 
 # Config (0.4 Beta)
 	Time: 1440
-	Token: ODE5MjEzNzg4OTYzNTM2ODk2.YEjWSw.PXGfu6oJAbzHbHA-MWhAiGuw92Q
-	ChannelID: 812990981573836811
+	Token: Your Token
+	ChannelID: Your Channel ID
 
 	Logs: false
 	LogsFile: AsBackup/Backup.log
@@ -24,6 +24,13 @@ AsBackup Is Auto Backup Skirpt To Discord. Tps Friendly And Configurable
 	AlertForAdmin. Same Like Log
 	Message. Message For Admin When Server Backup
 
+# Feature
+	1. Easy To use
+	2. Configurable
+	3. Amazing System
+	4. Log System
+	5. Message System
+
 # Small QNA
 	Q: How Much MB File I Can Upload To Discord?
 	A: From Discord Official You Can Upload Max 8MB Without Nitro/Boost Server
@@ -33,3 +40,6 @@ AsBackup Is Auto Backup Skirpt To Discord. Tps Friendly And Configurable
 
 	Q: Why You Shouldn't Use SpigotMC Resource Page For Wiki Instead of GitHub
 	A: Because I think it's easier to use Github than Spigot as a Wiki
+	
+	Q: I Want Change Backup File From "Plugins/SKirpt/Scripts" To My Own Folder.
+	A: On Next Update I Will Add It. So You Can Configurable File Where You Want To Backup
