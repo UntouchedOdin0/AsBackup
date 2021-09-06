@@ -13,11 +13,14 @@
 	Message: &aBackup Done For Folder &cPlugins/Skirpt/Scripts/*
 
 # Config Function
-	1. Time. How long is the backup time
-	2. Token. This Token Need For Your Token Discord Bot
-	3. ChannelID. This Channel Is For Your Storage Channels On Discord
+	
+	[Important]
+	Time. How long is the backup time
+	Token. This Token Need For Your Token Discord Bot
+	ChannelID. This Channel Is For Your Storage Channels On Discord
 
 	[Optional]
+
 	Logs. Logging Sistem For Every Backup
 	LogsFile. Where Logging File Will Save
 
