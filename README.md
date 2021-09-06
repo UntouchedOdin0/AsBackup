@@ -35,6 +35,10 @@
 	4. Log System
 	5. Message System
 
+# Addons Required
+	1. Disky | Link: https://github.com/SkyCraft78/DiSky/releases
+	2. Skent | Link: https://forums.skunity.com/resources/skent.817/
+
 # Small QNA
 	Q: How Much MB File I Can Upload To Discord?
 	A: From Discord Official You Can Upload Max 8MB Without Nitro/Boost Server
