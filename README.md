@@ -1,7 +1,7 @@
 # About
 	AsBackup Is Auto Backup System For Skirpt. Easy To Use And Usefull.
 
-# Config (0.4 Beta)
+# Config (0.4)
 	Time: 1440
 	Token: Your Token
 	ChannelID: Your Channel ID
@@ -52,3 +52,21 @@
 	Q: I Want Change Backup File From "Plugins/SKirpt/Scripts" To My Own Folder.
 	A: On Next Update I Will Add It. So You Can Configurable File Where You Want To Backup
 	
+# Tutorial
+	How To Get Bot Token
+
+	1. Go To This Website >> https://discord.com/developers/applications
+	2. Click "New Application"
+	3. Give Bot Name And Up To You
+	4. Go To Bot Tab
+	5. Click Copy Under Token
+	6. Paste On AsBackup.sk In "Token: PasteHere"
+
+	How To Get Channel ID
+
+	1. Go To User Settings
+	2. Click Advanced Tab
+	3. Enable Developer Mode
+	4. Right Click On Channel You Want To Set For Daily Backup
+	5. Click Copy ID
+	6. Paste On AsBackup.sk In "ChannelID: PasteHere"
