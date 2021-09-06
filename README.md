@@ -15,6 +15,7 @@
 # Config Function
 	
 	[Important]
+
 	Time. How long is the backup time
 	Token. This Token Need For Your Token Discord Bot
 	ChannelID. This Channel Is For Your Storage Channels On Discord
@@ -46,3 +47,4 @@
 	
 	Q: I Want Change Backup File From "Plugins/SKirpt/Scripts" To My Own Folder.
 	A: On Next Update I Will Add It. So You Can Configurable File Where You Want To Backup
+	
