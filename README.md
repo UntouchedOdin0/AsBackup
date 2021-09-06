@@ -41,9 +41,12 @@
 	4. Log System
 	5. Message System
 
-# Addons Required
+# Important
 	1. Disky | Link: https://github.com/SkyCraft78/DiSky/releases
 	2. Skent | Link: https://forums.skunity.com/resources/skent.817/
+
+	Change Config.sk File
+	- Line 34 To This "date format: dd-MM-yyyy-HH:mm"
 
 # Small QNA
 	Q: How Much MB File I Can Upload To Discord?
