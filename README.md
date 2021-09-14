@@ -7,16 +7,21 @@
 
 	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skirpt
 
-# Config (0.4)
+# Config (1.0.1)
 	Time: 1440
-	Token: Your Token
-	ChannelID: Your Channel ID
+	Token: PasteHereYourTokenId
+	ChannelID: PasteHereYourChannelId
+
+	BackupFolder: plugins/Skript/scripts
+	BackupZip: plugins/AsBackup/AsBackup-%now%.zip
+
+	Language: Indonesia
 
 	Logs: false
 	LogsFile: AsBackup/Backup.log
 
 	AlertForAdmin: false
-	Message: &aBackup Done For Folder &cPlugins/Skirpt/Scripts/*
+	Message: &aBackup Done For Folder &c{@BackupFolder}
 
 # Config Function
 	
@@ -25,6 +30,14 @@
 	Time. How long is the backup time
 	Token. This Token Need For Your Token Discord Bot
 	ChannelID. This Channel Is For Your Storage Channels On Discord
+
+	BackupFolder. Folder Location For Zip
+	BackupZip. Location Of Zip Folder
+
+	Language:
+	# Only Support 2 Language
+	# - English
+	# - Indonesia
 
 	[Optional]
 
@@ -59,7 +72,7 @@
 	A: Because I think it's easier to use Github than Spigot as a Wiki
 	
 	Q: I Want Change Backup File From "Plugins/SKirpt/Scripts" To My Own Folder.
-	A: On Next Update I Will Add It. So You Can Configurable File Where You Want To Backup
+	A: Pls Update Your AsBackup To 1.0.1 Or Latest
 	
 # Tutorial
 	How To Get Bot Token
