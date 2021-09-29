@@ -6,7 +6,7 @@
 	Skent Will Ziping Your Folder And Send Zip To Plugins/AsBackup/HereYourZipFile
 	And Disky Will Uploading Your .Zip File To Discord With Spesific Channel
 
-	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skirpt
+	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skript
 
 # Config (1.8.0)
 ```
@@ -94,7 +94,7 @@ Dont Change This!
 	A: Because I think it's easier to use Github than Spigot as a Wiki
 	
 	Q: I Want Change Backup File From "Plugins/SKirpt/Scripts" To My Own Folder.
-	A: Pls Update Your AsBackup To 1.0.1 Or Latest
+	A: Please Update Your AsBackup To 1.0.1 Or Latest
 	
 # Tutorial
 	How To Get Bot Token
