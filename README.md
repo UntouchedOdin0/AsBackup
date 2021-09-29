@@ -9,7 +9,7 @@
 	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skirpt
 
 # Config (1.8.0)
-
+```
 	Time: 1440
 	Token: PasteHereYourTokenId
 	ChannelID: PasteHereYourChannelId
@@ -42,6 +42,7 @@ Permission
 
 	ApiVersion: 1.8.0
 Dont Change This!
+```
 
 # Config Function
 
