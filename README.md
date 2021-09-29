@@ -2,12 +2,14 @@
 	AsBackup Is Auto Backup System For Skirpt. Easy To Use And Usefull.
 
 # How This Works?
+```
 	Skent Will Ziping Your Folder And Send Zip To Plugins/AsBackup/HereYourZipFile
 	And Disky Will Uploading Your .Zip File To Discord With Spesific Channel
 
-	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skirpt
+	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skirpt```
 
 # Config (1.8.0)
+
 ```	Time: 1440
 	Token: PasteHereYourTokenId
 	ChannelID: PasteHereYourChannelId
@@ -42,7 +44,7 @@ Permission
 Dont Change This!```
 
 # Config Function
-	
+```
 	[Important]
 
 	Time. How long is the backup time
@@ -63,7 +65,7 @@ Dont Change This!```
 	LogsFile. Where Logging File Will Save
 
 	AlertForAdmin. Same Like Log
-	Message. Message For Admin When Server Backup
+	Message. Message For Admin When Server Backup```
 
 # Feature
 	1. Easy To use
