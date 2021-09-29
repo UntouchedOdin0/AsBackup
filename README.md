@@ -7,21 +7,40 @@
 
 	This Easy To Use With Optimize Settings. Maybe Decrease Lag From AsBackup Skirpt
 
-# Config (1.0.1)
+# Config (1.8.0)
+
 	Time: 1440
 	Token: PasteHereYourTokenId
 	ChannelID: PasteHereYourChannelId
 
 	BackupFolder: plugins/Skript/scripts
-	BackupZip: plugins/AsBackup/AsBackup-%now%.zip
+Default BackupFolder: plugins/Skript/scripts
 
-	Language: Indonesia
+	PlayerChat: false
+	PlayerChatChannel: PasteHereYourChId
+
+	Language: English
+Support: English, Indonesia
 
 	Logs: false
 	LogsFile: AsBackup/Backup.log
 
 	AlertForAdmin: false
 	Message: &aBackup Done For Folder &c{@BackupFolder}
+
+Permission
+- asbackup.alert  | Alert New Backup Uploaded
+- asbackup.cmd    | Showing All Cmd 
+- asbackup.force  | Force/Test Backup
+- asbackup.reload | For /asbackup reload. Language Only
+- asbackup.update | Update CMD
+
+	ShowError: false
+	ErrorChannel: PasteHereYourErrorChannel
+
+
+	ApiVersion: 1.8.0
+Dont Change This!
 
 # Config Function
 	
@@ -55,8 +74,9 @@
 	5. Message System
 
 # Important
-	1. Disky | Link: https://github.com/SkyCraft78/DiSky/releases
-	2. Skent | Link: https://forums.skunity.com/resources/skent.817/
+	1. Disky       | Link: https://github.com/SkyCraft78/DiSky/releases
+	2. Skent       | Link: https://forums.skunity.com/resources/skent.817/
+	3. Skirpt-Json | Link: https://forums.skunity.com/resources/skript-json.151/
 
 	Change Config.sk File
 	- Line 34 To This "date format: dd-MM-yyyy-HH:mm"
