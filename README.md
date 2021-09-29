@@ -10,7 +10,7 @@
 
 # Config (1.8.0)
 
-```	Time: 1440
+	Time: 1440
 	Token: PasteHereYourTokenId
 	ChannelID: PasteHereYourChannelId
 
@@ -41,10 +41,10 @@ Permission
 
 
 	ApiVersion: 1.8.0
-Dont Change This!```
+Dont Change This!
 
 # Config Function
-```
+
 	[Important]
 
 	Time. How long is the backup time
